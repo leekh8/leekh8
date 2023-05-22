@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **leekh8/leekh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- badge site : https://simpleicons.org/  -->
+<!-- icon site: https://shields.io/ -->
+### About me
+[![E-mail Badge](https://img.shields.io/badge/email-yellowgreen?style=flat-square&logo=appveyor&logo=google&logoColor=white&link=mailto:amysun125@gmail.com)](mailto:amysun125@gmail.com) 
+<a href="https://leekh8.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/blog-skyblue?style=flat-square"/>
+</a>
+### Hi there 👋
