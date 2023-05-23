@@ -27,7 +27,7 @@ Nice to meet you
 
 🏅 Algorithm Level
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amysun125)](https://solved.ac/amysun125/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leekh)](https://solved.ac/leekh/)
 
 📑 Paper
 
