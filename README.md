@@ -53,7 +53,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleekh8&count_bg=%2318B4BB&title_bg=%234F6C70&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=footer&text=👋%20Bye%20there&fontSize=90)
 
 <!--
 **leekh8/leekh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
