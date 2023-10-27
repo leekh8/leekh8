@@ -39,6 +39,8 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white"/>
 
 
+-----
+
 <!-- git status site: https://github.com/anuraghazra/github-readme-stats -->
 <!-- git status theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
@@ -60,7 +62,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------- |
 | [OWASP ZAP 을 이용한 다계층 프로그래밍 언어 Links 의 웹 취약점 분석](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11035877)                                                                     | 한국정보과학회 | 2021.12 |
 | [다계층 프로그래밍언어 Links의 웹 취약점 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224401)                                                                                           | 한국정보과학회 | 2022.12 |
-| [다계층 프로그래밍 언어 Links의 웹 취약점 분석](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b2153b3cea019db5ffe0bdc3ef48d419&keyword=%EC%9D%B4%EA%B7%9C%ED%95%B4) | 학위 논문      | 2023. 02 |
+| [다계층 프로그래밍 언어 Links의 웹 취약점 분석](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b2153b3cea019db5ffe0bdc3ef48d419&keyword=%EC%9D%B4%EA%B7%9C%ED%95%B4) | 학위 논문      | 2023.02 |
 
 </div>
 
