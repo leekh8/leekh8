@@ -41,18 +41,17 @@
 
 
 -----
-
+<!--START_SECTION:waka-->
 <!-- git status site: https://github.com/anuraghazra/github-readme-stats -->
 <!-- git status theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 
-![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&layout=compact&theme=graywhite)
+![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&count_private=true&show_icons=true&layout=compact&exclude_repo=ERD,Colaborarity&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&count_private=true&layout=compact&layout=compact&exclude_repo=ERD,Colaborarity&theme=graywhite)
 
-<!--START_SECTION:waka-->
 <!-- wakatime stats site: https://wakatime.com/dashboard -->
 
-[![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&count_private=true&show_icons=true&langs_count=8&layout=compact&exclude_repo=ERD,Colaborarity)](https://github.com/anuraghazra/github-readme-stats)
+[![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&count_private=true&show_icons=true&langs_count=&count_private=true&layout=compact&exclude_repo=ERD,Colaborarity)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 ### 🏅 Algorithm Level
