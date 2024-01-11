@@ -44,7 +44,12 @@
 <!--START_SECTION:waka-->
 <!-- git status site: https://github.com/anuraghazra/github-readme-stats -->
 <!-- git status theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&count_private=true&show_icons=true&layout=compact&exclude_repo=ERD,Colaborarity&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&layout=compact&exclude_repo=ERD,Colaborarity&theme=graywhite)
