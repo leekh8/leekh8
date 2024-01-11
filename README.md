@@ -49,9 +49,11 @@
 ![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&layout=compact&theme=graywhite)
 
+<!--START_SECTION:waka-->
 <!-- wakatime stats site: https://wakatime.com/dashboard -->
 
-[![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=graywhite)
+[![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=graywhite)
+<!--END_SECTION:waka-->
 
 ### 🏅 Algorithm Level
 
