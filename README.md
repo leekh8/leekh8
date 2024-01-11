@@ -47,7 +47,7 @@
 
 
 ![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&count_private=true&show_icons=true&layout=compact&exclude_repo=ERD,Colaborarity&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&layout=compact&layout=compact&exclude_repo=ERD,Colaborarity&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&layout=compact&layout=compact&theme=graywhite)
 
 <!-- wakatime stats site: https://wakatime.com/dashboard -->
 
