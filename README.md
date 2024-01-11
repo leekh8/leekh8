@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 <!-- wakatime stats site: https://wakatime.com/dashboard -->
 
-[![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&show_icons=true&langs_count=8&layout=compact&exclude_repo=ERD, Colaborarity)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=graywhite)
+[![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&count_private=true&show_icons=true&langs_count=8&layout=compact&exclude_repo=ERD,Colaborarity)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 ### 🏅 Algorithm Level
