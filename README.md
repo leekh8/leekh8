@@ -41,8 +41,7 @@
 
 
 -----
-**
-<!-- git status site: https://github.com/anuraghazra/github-readme-stats -->
+**<!-- git status site: https://github.com/anuraghazra/github-readme-stats -->
 <!-- git status theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->**
 
 ![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&count_private=true&show_icons=true&layout=compact&exclude_repo=ERD,Colaboratory&theme=graywhite)
