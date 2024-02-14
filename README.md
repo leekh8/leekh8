@@ -41,16 +41,17 @@
 
 
 -----
-<!--START_SECTION:waka-->
+**
 <!-- git status site: https://github.com/anuraghazra/github-readme-stats -->
-<!-- git status theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<!-- git status theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->**
 
 ![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&count_private=true&show_icons=true&layout=compact&exclude_repo=ERD,Colaboratory&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&layout=compact&exclude_repo=ERD,Colaboratory&theme=graywhite)
 
-<!-- wakatime stats site: https://wakatime.com/dashboard -->
+**<!-- wakatime stats site: https://wakatime.com/dashboard -->**
 
 [![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&stats=last_7days&count_private=true&show_icons=true&langs_count=10&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ### 🏅 Algorithm Level
