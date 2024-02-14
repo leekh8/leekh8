@@ -17,10 +17,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           # 플래그 자리
-          LOCALE: "ko" #한국
+          # LOCALE: "ko" #한국
           SHOW_LINES_OF_CODE: "True" # or "False"
-          SHOW_PROFILE_VIEWS: "True" # or "False"
-          SHOW_DAYS_OF_WEEK:  "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "True" # or "False"
           SHOW_LOC_CHART: "True" # or "False"
           SHOW_PROJECTS: "True" # or "False"
