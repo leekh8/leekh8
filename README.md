@@ -52,7 +52,7 @@
 [![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&stats=last_7days&count_private=true&show_icons=true&langs_count=10&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-545.7%20thousand%20lines%20of%20code-blue)
 
@@ -60,11 +60,11 @@
 
 > 📦 94.1 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2024
+> 🏆 104 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -84,19 +84,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 33 mins             ███████████░░░░░░░░░░░░░░   44.98 % 
-JavaScript               22 mins             ████████░░░░░░░░░░░░░░░░░   30.26 % 
-Python                   18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript               1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.89 % 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Java                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 58 mins        ██████████████████████░░░   86.41 % 
+Intellijidea             18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 
 🐱‍💻 Projects: 
-aiProject                1 hr 13 mins        █████████████████████████   100.00 % 
+aiProject                56 mins             ██████████░░░░░░░░░░░░░░░   41.06 % 
+leekh8.github.io         39 mins             ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+my-blog                  22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Project-Java             18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +121,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leekh8/leekh8/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2024 18:34:00 UTC
+ Last Updated on 20/02/2024 18:35:08 UTC
 <!--END_SECTION:waka-->
 -->
 
