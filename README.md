@@ -60,6 +60,8 @@
 
 > 📦 99.0 kB Used in GitHub's Storage 
  > 
+> 🏆 107 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -119,7 +121,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leekh8/leekh8/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2024 18:34:09 UTC
+ Last Updated on 22/02/2024 18:34:34 UTC
 <!--END_SECTION:waka-->
 -->
 
