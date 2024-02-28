@@ -84,22 +84,16 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 16 mins        ████████████████░░░░░░░░░   64.11 % 
-Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        ████████████████████████░   97.28 % 
-Intellijidea             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-my-blog                  1 hr 55 mins        ████████████████████████░   97.28 % 
-Project-Java             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +113,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leekh8/leekh8/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2024 18:34:52 UTC
+ Last Updated on 28/02/2024 18:34:08 UTC
 <!--END_SECTION:waka-->
 -->
 
