@@ -52,15 +52,15 @@
 [![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&stats=last_7days&count_private=true&show_icons=true&langs_count=10&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-571.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-571.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 99.0 kB Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2024
+> 🏆 111 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,9 +71,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                404 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-🌆 Daytime                979 commits         ███████████░░░░░░░░░░░░░░   44.89 % 
-🌃 Evening                798 commits         █████████░░░░░░░░░░░░░░░░   36.59 % 
+🌞 Morning                408 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+🌆 Daytime                979 commits         ███████████░░░░░░░░░░░░░░   44.81 % 
+🌃 Evening                798 commits         █████████░░░░░░░░░░░░░░░░   36.52 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -84,16 +84,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     6 mins              █████████████████████░░░░   85.18 % 
+GitIgnore file           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Shell Script             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Project-Java             8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +117,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/leekh8/leekh8/main/assets/bar_graph.png)
 
 
- Last Updated on 29/02/2024 18:34:01 UTC
+ Last Updated on 01/03/2024 18:34:46 UTC
 <!--END_SECTION:waka-->
 -->
 
