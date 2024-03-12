@@ -52,7 +52,7 @@
 [![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&stats=last_7days&count_private=true&show_icons=true&langs_count=10&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2017%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -70,21 +70,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     4 hrs 26 mins       █████████████████████████   99.59 % 
-Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Java                     2 hrs 7 mins        █████████████████████████   99.39 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Intellijidea             4 hrs 27 mins       █████████████████████████   100.00 % 
+Intellijidea             2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Project-Java             4 hrs 27 mins       █████████████████████████   100.00 % 
+Project-Java             2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2024 18:34:02 UTC
+ Last Updated on 12/03/2024 18:34:23 UTC
 <!--END_SECTION:waka-->
 -->
 
