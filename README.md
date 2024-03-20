@@ -53,37 +53,6 @@
 [![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&stats=last_7days&count_private=true&show_icons=true&langs_count=10&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2017%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                422 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-🌆 Daytime                981 commits         ███████████░░░░░░░░░░░░░░   44.49 % 
-🌃 Evening                802 commits         █████████░░░░░░░░░░░░░░░░   36.37 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Intellijidea             0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 19/03/2024 18:33:59 UTC
-<!--END_SECTION:waka-->
 
 ### 🏅 Algorithm Level
 
