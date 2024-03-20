@@ -47,10 +47,11 @@
 ![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&count_private=true&show_icons=true&layout=compact&exclude_repo=ERD,Colaboratory&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&layout=compact&exclude_repo=ERD,Colaboratory&theme=graywhite)
 
+-----
 **<!-- wakatime stats site: https://wakatime.com/dashboard -->**
 
 [![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&stats=last_7days&count_private=true&show_icons=true&langs_count=10&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2017%20mins-blue)
 
@@ -82,7 +83,6 @@ Windows                  0 secs              ███████████�
 
  Last Updated on 19/03/2024 18:33:59 UTC
 <!--END_SECTION:waka-->
--->
 
 ### 🏅 Algorithm Level
 
