@@ -11,7 +11,7 @@
 ### 💌 Contact me
 
 [![G-mail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:amysun125@gmail.com)](mailto:amysun125@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=appveyor&logo=Tistory&logoColor=white&link=https://haileeq.tistory.com/)](https://haileeq.tistory.com/)
+[![GitHub Pages Badge](https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=appveyor&logo=Gitblog&logoColor=white&link=https://leekh8.github.io/)](https://leekh8.github.io/)
 <!--~~[![Git Badge](https://img.shields.io/badge/GitPages-222222?style=flat&logo=appveyor&logo=GitHub&logoColor=white&link=https://leekh8.github.io/)](https://leekh8.github.io/)~~-->
 
 ### 😉 About me
