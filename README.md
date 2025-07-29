@@ -11,7 +11,10 @@
 ### 💌 Contact me
 
 [![G-mail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:amysun125@gmail.com)](mailto:amysun125@gmail.com)
+
+###  📝 Technical Blog
 [![G-mail Badge](https://img.shields.io/badge/Gitblog-222222?style=flat&logo=appveyor&logo=Gmail&logoColor=white&link=https://leekh8.github.io/)](https://leekh8.github.io/)
+
 <!--~~[![Git Badge](https://img.shields.io/badge/GitPages-222222?style=flat&logo=appveyor&logo=GitHub&logoColor=white&link=https://leekh8.github.io/)](https://leekh8.github.io/)~~-->
 
 ### 😉 About me
@@ -22,17 +25,26 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 
-#### 🛠️ Stacks
+#### 🛠️ Stacks 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
+##### 🧱 Backend
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+#### 🌐 Frontend
+
+ <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white">  
 
 #### 💪🏼 Tools
+##### 🧰 Dev Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Androidstudio&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=flat&logo=Arduino&logoColor=white"/> 
+
+#### 🔒 Security 
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white"/> 
 
 
 #### 🔧 Hardware
