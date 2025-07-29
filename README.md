@@ -2,7 +2,9 @@
 
 <div align="center">
 
-### 🌱 I’m currently learning about many things.
+### 🌱 I’m currently diving into:
+- GitHub Actions for full-stack CI/CD automation
+- Efficient web scraping and browser automation (Playwright)
 
 <!-- icon site : https://simpleicons.org/  -->
 <!-- badge site: https://shields.io/ -->
@@ -16,12 +18,18 @@
 [![G-mail Badge](https://img.shields.io/badge/Gitblog-222222?style=flat&logo=appveyor&logo=Gmail&logoColor=white&link=https://leekh8.github.io/)](https://leekh8.github.io/)
 
 <!--~~[![Git Badge](https://img.shields.io/badge/GitPages-222222?style=flat&logo=appveyor&logo=GitHub&logoColor=white&link=https://leekh8.github.io/)](https://leekh8.github.io/)~~-->
+<!--
+### 🚀 Featured Projects
 
+- 🧠 [MyBookMind](https://github.com/leekh8/mybookmind): 도서 구매 자동 수집 및 정리 자동화
+- 🧪 [TestWeave](https://github.com/leekh8/testweave): Spring 기반 테스트 자동화 플랫폼
+- 🌐 [Site Mapper](https://github.com/leekh8/site-mapper): 사이트 구조 기반 sitemap 생성기
+-->
 ### 😉 About me
 
 #### 📢 Languages
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F44336?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F44336?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 
@@ -32,13 +40,11 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=MongoDB&logoColor=white"/>
 
-#### 🌐 Frontend
+##### 🌐 Frontend
 
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=MongoDB&logoColor=white"/> 
- 
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white"/> 
 
 #### 💪🏼 Tools
 ##### 🧰 Dev Tools
@@ -47,13 +53,13 @@
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=flat&logo=Arduino&logoColor=white"/> 
 
-#### 🔒 Security 
+##### 🔒 Security 
 <img src="https://img.shields.io/badge/OWASP ZAP-000000?style=flat&logo=owasp&logoColor=white"/> 
 
-#### ⚙️ CI/CD & DevOps
+##### ⚙️ CI/CD & DevOps
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 
-#### 🤖 Web Automation & Scraping
+##### 🤖 Web Automation & Scraping
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Cheerio-F9DC3E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white"/>
 
 #### 🧠 AI / Data
