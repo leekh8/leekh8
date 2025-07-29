@@ -27,14 +27,18 @@
 
 #### 🛠️ Stacks 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
+
 ##### 🧱 Backend
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> 
 
 #### 🌐 Frontend
 
- <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white">  
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=MongoDB&logoColor=white"/> 
+ 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white"/> 
 
 #### 💪🏼 Tools
 ##### 🧰 Dev Tools
@@ -44,12 +48,19 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=flat&logo=Arduino&logoColor=white"/> 
 
 #### 🔒 Security 
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/OWASP ZAP-000000?style=flat&logo=owasp&logoColor=white"/> 
 
+#### ⚙️ CI/CD & DevOps
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+
+#### 🤖 Web Automation & Scraping
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Cheerio-F9DC3E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white"/>
+
+#### 🧠 AI / Data
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
 
 #### 🔧 Hardware
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white"/>
 
 **<!-- git status site: https://github.com/anuraghazra/github-readme-stats -->**
 **<!-- git status theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->**
