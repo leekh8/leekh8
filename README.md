@@ -4,6 +4,7 @@
 
 ### 🌱 I’m currently diving into:
 💡 GitHub Actions for full-stack CI/CD automation
+
 🧪 Efficient web scraping and browser automation (Playwright)
 
 <!-- icon site : https://simpleicons.org/  -->
