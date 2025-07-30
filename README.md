@@ -3,8 +3,8 @@
 <div align="center">
 
 ### 🌱 I’m currently diving into:
-- GitHub Actions for full-stack CI/CD automation
-- Efficient web scraping and browser automation (Playwright)
+💡 GitHub Actions for full-stack CI/CD automation
+🧪 Efficient web scraping and browser automation (Playwright)
 
 <!-- icon site : https://simpleicons.org/  -->
 <!-- badge site: https://shields.io/ -->
