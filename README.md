@@ -38,15 +38,22 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔎 관련 활동
+### [advisory-watcher](https://github.com/leekh8/advisory-watcher)
+**보안 권고문 수집기**
 
-- **논문 3편** — OWASP ZAP 기반 웹 취약점 분석 *(아래 Papers)*
-- **블로그 보안 시리즈** — OWASP Top 10 · API Security · LLM Top 10 · JWT/OAuth/세션
-- **보안 자동화 기록** — [권고문 RSS 수집기](https://leekh8.github.io/security-advisory-rss-watcher/) · [Nuclei 스캔 비결정성 추적](https://leekh8.github.io/nuclei-ssh-maxstartups/)
+- KISA 보호나라 + Fortinet PSIRT RSS 정기 수집
+- **신규 권고문만** 탐지 (UNIQUE 제약 dedup) → 메일 알림
+- 최초 실행 폭주 방지 seed 모드
+- **의존성 0** — Python 표준 라이브러리만
+- GitHub Actions 일일 자동 실행
+
+`Python` `GitHub Actions`
 
 </td>
 </tr>
 </table>
+
+> 📑 [논문 3편](#-papers) (OWASP ZAP 기반 웹 취약점 분석) · 블로그 [보안 자동화](https://leekh8.github.io/security-advisory-rss-watcher/) · [웹 보안 기초 시리즈](https://leekh8.github.io/)
 
 ## 🧰 Tools · Automation
 
