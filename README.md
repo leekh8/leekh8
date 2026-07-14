@@ -22,38 +22,56 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [TestWeave](https://github.com/leekh8/TestWeave)
 **웹 보안 회귀 스캐너**
 
 - baseline 대비 `REGRESSION` / `FIXED` / `NEW` 판정
 - 보안 헤더 · TLS 버전 · 쿠키 플래그 점검
-- 값의 *강도*까지 검증 (존재 여부 X)
-- SSRF 가드 내장 · 일일 자동 스캔
+- 존재 여부가 아닌 **값의 강도**까지 검증
+  (HSTS `max-age≥1년` · CSP `unsafe-inline` 거부 · TLS 1.2 미만 FAIL · `SameSite=None`은 `Secure` 필수)
+- 스캐너 자체 SSRF 가드 · GitHub Actions 일일 자동 스캔
 
-`Spring Boot` `Java 17` `GitHub Actions`
+`Spring Boot` `Java 17` `JUnit`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 🔎 관련 활동
+
+- **논문 3편** — OWASP ZAP 기반 웹 취약점 분석 *(아래 Papers)*
+- **블로그 보안 시리즈** — OWASP Top 10 · API Security · LLM Top 10 · JWT/OAuth/세션
+- **보안 자동화 기록** — [권고문 RSS 수집기](https://leekh8.github.io/security-advisory-rss-watcher/) · [Nuclei 스캔 비결정성 추적](https://leekh8.github.io/nuclei-ssh-maxstartups/)
+
+</td>
+</tr>
+</table>
+
+## 🧰 Tools · Automation
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [Site-Mapper](https://github.com/leekh8/Site-Mapper)
-**사이트맵 생성기**
+**사이트맵(sitemap.xml) 생성기**
 
-- 크롤링 기반 사이트 구조 추출
-- 사용자 입력 URL → SSRF 가드로 내부망 차단
-- 스트리밍 다운로드
+- URL 입력 → 동일 호스트 링크 수집 → 표준 sitemap 렌더
+- 브라우저에서 미리보기 · 복사 · 다운로드
+- 사용자 입력 URL을 다루므로 SSRF 가드 적용
 
-`Node` `Puppeteer`
+`Node` `Express` `Puppeteer`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [vmpulse](https://github.com/leekh8/vmpulse)
-**vCenter 인벤토리 수집기**
+**vSphere 인벤토리 수집 CLI**
 
-- 가상 자산 현황 CSV 추출
-- 자산 추적 자동화
+- vCenter VM 목록·헬스체크 조회
+- 외부 시트(Google Sheets) 동기화로 수기 관리 제거
+- 의존성 0 (표준 라이브러리만)
 
 `Python`
 
