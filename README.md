@@ -1,113 +1,79 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=👋%20Hi%20there&fontSize=90)
-
 <div align="center">
 
-### 🌱 I’m currently diving into:
-💡 GitHub Actions for full-stack CI/CD automation
+# 이규해 · leekh8
 
-🧪 Efficient web scraping and browser automation (Playwright)
+**보안 엔지니어** — 웹 취약점 분석으로 시작해, 지금은 *보안 점검을 자동화하는 도구*를 만든다.
 
-<!-- icon site : https://simpleicons.org/  -->
-<!-- badge site: https://shields.io/ -->
-<!-- emoji site: https://www.webfx.com/tools/emoji-cheat-sheet/ -->
-
-### 💌 Contact me
-
-[![G-mail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:amysun125@gmail.com)](mailto:amysun125@gmail.com)
-
-###  📝 Technical Blog
-[![G-mail Badge](https://img.shields.io/badge/Gitblog-222222?style=flat&logo=appveyor&logo=Gmail&logoColor=white&link=https://leekh8.github.io/)](https://leekh8.github.io/)
-
-<!--~~[![Git Badge](https://img.shields.io/badge/GitPages-222222?style=flat&logo=appveyor&logo=GitHub&logoColor=white&link=https://leekh8.github.io/)](https://leekh8.github.io/)~~-->
-<!--
-### 🚀 Featured Projects
-
-- 🧠 [MyBookMind](https://github.com/leekh8/mybookmind): 도서 구매 자동 수집 및 정리 자동화
-- 🧪 [TestWeave](https://github.com/leekh8/testweave): Spring 기반 테스트 자동화 플랫폼
-- 🌐 [Site Mapper](https://github.com/leekh8/site-mapper): 사이트 구조 기반 sitemap 생성기
--->
-### 😉 About me
-
-#### 📢 Languages
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F44336?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
-
-#### 🛠️ Stacks 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
-
-##### 🧱 Backend
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=MongoDB&logoColor=white"/>
-
-##### 🌐 Frontend
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white"/> 
-
-#### 💪🏼 Tools
-##### 🧰 Dev Tools
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Androidstudio&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino IDE-00979D?style=flat&logo=Arduino&logoColor=white"/> 
-
-##### 🔒 Security 
-<img src="https://img.shields.io/badge/OWASP ZAP-000000?style=flat&logo=owasp&logoColor=white"/> 
-
-##### ⚙️ CI/CD & DevOps
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-
-##### 🤖 Web Automation & Scraping
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Cheerio-F9DC3E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white"/>
-
-#### 🧠 AI / Data
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
-
-#### 🔧 Hardware
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white"/>
-
-**<!-- git status site: https://github.com/anuraghazra/github-readme-stats -->**
-**<!-- git status theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->**
-
-![leekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh8&count_private=true&show_icons=true&layout=compact&exclude_repo=ERD,Colaboratory&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekh8&langs_count=10&layout=compact&hide=jupyter%20notebook,cmake,ejs&exclude_repo=ERD,Colaboratory&theme=graywhite)
-
-**<!-- wakatime stats site: https://wakatime.com/dashboard -->**
-
-[![leekh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leekh&stats=last_7days&count_private=true&show_icons=true&langs_count=10&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏅 Algorithm Level
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leekh)](https://solved.ac/leekh/)
-
-### 📑 Paper
-
-| Title                                                                                                                                                                                                       | 발행처         | Date    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------- |
-| [OWASP ZAP 을 이용한 다계층 프로그래밍 언어 Links 의 웹 취약점 분석](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11035877)                                                                     | 한국정보과학회 | 2021.12 |
-| [다계층 프로그래밍언어 Links의 웹 취약점 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224401)                                                                                           | 한국정보과학회 | 2022.12 |
-| [다계층 프로그래밍 언어 Links의 웹 취약점 분석](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b2153b3cea019db5ffe0bdc3ef48d419&keyword=%EC%9D%B4%EA%B7%9C%ED%95%B4) | 학위 논문      | 2023.02 |
+[![Blog](https://img.shields.io/badge/기술_블로그-leekh8.github.io-222222?style=flat&logo=githubpages&logoColor=white)](https://leekh8.github.io/)
+[![Gmail](https://img.shields.io/badge/amysun125@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amysun125@gmail.com)
 
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleekh8&count_bg=%2318B4BB&title_bg=%234F6C70&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+---
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=footer&text=👋%20Bye%20there&fontSize=90)
+## 🔨 만든 것들
 
-<!--
-**leekh8/leekh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+무엇을 만들었는지보다 **어떤 문제를 풀었는지**를 적었다.
 
-Here are some ideas to get you started:
+### 보안
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 프로젝트 | 푼 문제 | 스택 |
+|---|---|---|
+| **[TestWeave](https://github.com/leekh8/TestWeave)** | 단발성 스캐너는 *"지금 상태"* 만 알려준다. **"지난번보다 나빠졌다"(회귀)** 를 잡는 스캐너 — 보안 헤더·TLS·쿠키를 baseline과 비교해 `REGRESSION/FIXED/NEW` 판정. SSRF 가드 내장, 매일 GitHub Actions 자동 스캔 | Spring Boot · Java 17 |
+| **[Site-Mapper](https://github.com/leekh8/Site-Mapper)** | 사이트 구조를 크롤링해 sitemap 생성. 사용자 입력 URL을 다루므로 **SSRF 가드**로 내부망 접근 차단 | Node · Puppeteer |
+| **[vmpulse](https://github.com/leekh8/vmpulse)** | vCenter 인벤토리를 CSV로 뽑아 자산 현황을 추적 | Python |
+
+### 웹 · 풀스택
+
+| 프로젝트 | 푼 문제 | 스택 |
+|---|---|---|
+| **[MD-GGU](https://github.com/leekh8/MD-GGU)** | 마크다운 문서를 작성·관리하고 규칙 기반으로 요약·이모지·참고링크를 자동 추출 | React(Vite) · Spring Boot · Flask · PostgreSQL |
+| **[TimeTrack](https://github.com/leekh8/TimeTrack)** | 뽀모도로 타이머 + 할 일 관리. 백그라운드 탭에서 타이머가 느려지는 문제를 **벽시계(Date.now) 재계산**으로 해결 | React · Express |
+| **[GitGGu](https://github.com/leekh8/GitGGu)** | GitHub 프로필 README를 쓰는 마크다운 에디터 — 커서 인식 서식·자동 저장·다운로드 | React(Vite) |
+| **[SEO-Booster](https://github.com/leekh8/SEO-Booster)** | 글 쓰는 중에 SEO 점수를 실시간으로 매겨 개선점을 알려주는 에디터 | React(Vite) |
+
+### 앱 · 게임
+
+| 프로젝트 | 푼 문제 | 스택 |
+|---|---|---|
+| **[uno_flutter](https://github.com/leekh8/uno_flutter)** | UNO 오프라인 싱글플레이 — 규칙 엔진을 UI와 분리한 순수 함수로 두고 단위 테스트로 검증 | Flutter · Dart |
+| **[uno-deathmatch](https://github.com/leekh8/uno-deathmatch)** | UNO No Mercy 룰 실시간 멀티플레이 (WebSocket) | Node · React |
+| **[SwiftType](https://github.com/leekh8/SwiftType)** | 타자 연습 — 정확도·CPM·WPM 계산 로직을 분리해 테스트 | JavaFX · Java 17 |
+
+---
+
+## 📝 기술 블로그
+
+**[leekh8.github.io](https://leekh8.github.io/)** — 실무에서 만난 버그를 원인까지 파고들어 기록한다. (주 1회 발행)
+
+- **React 버그 해부** 시리즈 — [stale closure](https://leekh8.github.io/react-stale-closure-timer/) · [useCallback deps](https://leekh8.github.io/react-useCallback-deps/) · [백그라운드 탭 타이머 드리프트](https://leekh8.github.io/react-background-timer-drift/) · [react-beautiful-dnd와 StrictMode](https://leekh8.github.io/react-beautiful-dnd-strictmode/)
+- **보안 자동화** — [보안 권고문 RSS 수집기](https://leekh8.github.io/security-advisory-rss-watcher/) · [Nuclei 스캔 비결정성 추적](https://leekh8.github.io/nuclei-ssh-maxstartups/)
+- **웹 보안 기초** — OWASP Top 10 · API Security · LLM Top 10 · JWT/OAuth/세션
+
+---
+
+## 📑 논문
+
+| 제목 | 발행처 | 연도 |
+|---|---|---|
+| [OWASP ZAP을 이용한 다계층 프로그래밍 언어 Links의 웹 취약점 분석](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11035877) | 한국정보과학회 | 2021.12 |
+| [다계층 프로그래밍언어 Links의 웹 취약점 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224401) | 한국정보과학회 | 2022.12 |
+| [다계층 프로그래밍 언어 Links의 웹 취약점 분석](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b2153b3cea019db5ffe0bdc3ef48d419) | 학위 논문 | 2023.02 |
+
+---
+
+## 🛠️ 주로 쓰는 것
+
+**언어** Java · Python · JavaScript/TypeScript · Dart
+**백엔드** Spring Boot · Node/Express · Flask · PostgreSQL · MongoDB
+**프론트** React · Vite · Tailwind
+**보안·자동화** OWASP ZAP · Nuclei · Playwright · GitHub Actions
+**기타** Flutter · TensorFlow · Linux · Docker
+
+<div align="center">
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=leekh)](https://solved.ac/leekh/)
+
+![stats](https://github-readme-stats.vercel.app/api?username=leekh8&show_icons=true&layout=compact&theme=graywhite&hide_border=true)
+
+</div>
