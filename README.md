@@ -99,7 +99,7 @@
 <td width="33%" valign="top">
 
 ### [MD-GGU](https://github.com/leekh8/MD-GGU)
-**마크다운 문서 관리 플랫폼**
+**마크다운 문서 관리 플랫폼** · [▶ Live](https://mdggu-front.onrender.com/)
 
 - 규칙 기반 요약 · 이모지 · 참고링크 자동 추출
 - JWT 인증 (Access + Refresh)
@@ -111,7 +111,7 @@
 <td width="33%" valign="top">
 
 ### [TimeTrack](https://github.com/leekh8/TimeTrack)
-**뽀모도로 타이머 + TODO**
+**뽀모도로 타이머 + TODO** · [▶ Live](https://time-track-psi.vercel.app/)
 
 - 백그라운드 탭 타이머 드리프트 해결 (벽시계 재계산)
 - 드래그 정렬 · 다국어 · 다크모드
@@ -124,8 +124,8 @@
 ### [GitGGu](https://github.com/leekh8/GitGGu) · [SEO-Booster](https://github.com/leekh8/SEO-Booster)
 **에디터 2종**
 
-- GitGGu — 프로필 README 마크다운 에디터
-- SEO-Booster — 작성 중 실시간 SEO 점수
+- GitGGu — 프로필 README 마크다운 에디터 · [▶ Live](https://git-g-gu.vercel.app/)
+- SEO-Booster — 작성 중 실시간 SEO 점수 · [▶ Live](https://seo-booster-delta.vercel.app/)
 
 `React` `Vite`
 
@@ -140,7 +140,7 @@
 <td width="33%" valign="top">
 
 ### [finimondo](https://github.com/leekh8/finimondo)
-**카드 셰딩 게임 · 오프라인 싱글**
+**카드 셰딩 게임 · 오프라인 싱글** · [▶ Live](https://leekh8.github.io/finimondo/)
 
 - 규칙 엔진 = UI와 분리된 순수 함수
 - AI 3인 · 드로우 중첩 · 덱 재활용
@@ -152,7 +152,7 @@
 <td width="33%" valign="top">
 
 ### [finimondo-web](https://github.com/leekh8/finimondo-web)
-**실시간 멀티플레이 카드 배틀**
+**실시간 멀티플레이 카드 배틀** · [▶ Live](https://finimondo-web.onrender.com/)
 
 - WebSocket 기반 방 생성 · 대전
 - 룰 엔진 단위 테스트
