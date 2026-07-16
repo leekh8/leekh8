@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [TestWeave](https://github.com/leekh8/TestWeave)
 **웹 보안 회귀 스캐너**
@@ -36,7 +36,7 @@
 `Spring Boot` `Java 17` `JUnit`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [advisory-watcher](https://github.com/leekh8/advisory-watcher)
 **보안 권고문 수집기**
@@ -50,6 +50,9 @@
 `Python` `GitHub Actions`
 
 </td>
+<td width="33%" valign="top">
+
+</td>
 </tr>
 </table>
 
@@ -59,7 +62,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [Site-Mapper](https://github.com/leekh8/Site-Mapper)
 **사이트맵(sitemap.xml) 생성기**
@@ -71,7 +74,7 @@
 `Node` `Express` `Puppeteer`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [vmpulse](https://github.com/leekh8/vmpulse)
 **vSphere 인벤토리 수집 CLI**
@@ -81,6 +84,9 @@
 - 의존성 0 (표준 라이브러리만)
 
 `Python`
+
+</td>
+<td width="33%" valign="top">
 
 </td>
 </tr>
@@ -133,8 +139,8 @@
 <tr>
 <td width="33%" valign="top">
 
-### [uno_flutter](https://github.com/leekh8/uno_flutter)
-**UNO 오프라인 싱글플레이**
+### [finimondo](https://github.com/leekh8/finimondo)
+**카드 셰딩 게임 · 오프라인 싱글**
 
 - 규칙 엔진 = UI와 분리된 순수 함수
 - AI 3인 · 드로우 중첩 · 덱 재활용
@@ -145,8 +151,8 @@
 </td>
 <td width="33%" valign="top">
 
-### [uno-deathmatch](https://github.com/leekh8/uno-deathmatch)
-**UNO No Mercy 실시간 멀티**
+### [finimondo-web](https://github.com/leekh8/finimondo-web)
+**실시간 멀티플레이 카드 배틀**
 
 - WebSocket 기반 방 생성 · 대전
 - 룰 엔진 단위 테스트
