@@ -131,6 +131,25 @@
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### [flutter_chat](https://github.com/leekh8/flutter_chat)
+**실시간 채팅** · [▶ Live](https://flutter-8ebe9.web.app/)
+
+- Firebase Auth + Firestore 실시간 구독
+- 본인 uid로만 작성하는 보안 규칙
+
+`Flutter` `Firebase`
+
+</td>
+<td width="33%" valign="top">
+
+</td>
+<td width="33%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ## 📱 App · Game
