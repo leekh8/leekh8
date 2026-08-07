@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [TestWeave](https://github.com/leekh8/TestWeave)
 **웹 보안 회귀 스캐너**
@@ -36,7 +36,7 @@
 `Spring Boot` `Java 17` `JUnit`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [advisory-watcher](https://github.com/leekh8/advisory-watcher)
 **보안 권고문 수집기**
@@ -48,9 +48,6 @@
 - GitHub Actions 일일 자동 실행
 
 `Python` `GitHub Actions`
-
-</td>
-<td width="33%" valign="top">
 
 </td>
 </tr>
@@ -88,6 +85,15 @@
 </td>
 <td width="33%" valign="top">
 
+### [MeetScribe](https://github.com/leekh8/MeetScribe)
+**회의 녹음 → 마크다운 회의록**
+
+- **완전 오프라인 STT** — 오디오가 기기 밖으로 안 나감
+- faster-whisper 전사 → 도메인 용어 교정 → 화자 분리 → 요약
+- 전사·교정·렌더는 네트워크 없이 동작
+
+`Python` `faster-whisper` `pyannote`
+
 </td>
 </tr>
 </table>
@@ -96,7 +102,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [MD-GGU](https://github.com/leekh8/MD-GGU)
 **마크다운 문서 관리 플랫폼** · [▶ Live](https://mdggu-front.onrender.com/)
@@ -108,7 +114,7 @@
 `React` `Spring Boot` `Flask` `PostgreSQL`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [TimeTrack](https://github.com/leekh8/TimeTrack)
 **뽀모도로 타이머 + TODO** · [▶ Live](https://time-track-psi.vercel.app/)
@@ -119,7 +125,9 @@
 `React` `Express`
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [GitGGu](https://github.com/leekh8/GitGGu) · [SEO-Booster](https://github.com/leekh8/SEO-Booster)
 **에디터 2종**
@@ -130,9 +138,7 @@
 `React` `Vite`
 
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [flutter_chat](https://github.com/leekh8/flutter_chat)
 **실시간 채팅** · [▶ Live](https://flutter-8ebe9.web.app/)
@@ -141,12 +147,6 @@
 - 본인 uid로만 작성하는 보안 규칙
 
 `Flutter` `Firebase`
-
-</td>
-<td width="33%" valign="top">
-
-</td>
-<td width="33%" valign="top">
 
 </td>
 </tr>
@@ -197,12 +197,13 @@
 
 ## 📝 Tech Blog · [leekh8.github.io](https://leekh8.github.io/)
 
-> 실무에서 만난 버그 → 원인까지 추적 · 기록 (주 1회)
+> 실무에서 만난 버그 → 원인까지 추적 · 기록 · **45편** (주 1회)
 
 | 시리즈 | 글 |
 |---|---|
 | **React 버그 해부** | [stale closure](https://leekh8.github.io/react-stale-closure-timer/) · [useCallback deps](https://leekh8.github.io/react-useCallback-deps/) · [백그라운드 탭 타이머 드리프트](https://leekh8.github.io/react-background-timer-drift/) · [react-beautiful-dnd + StrictMode](https://leekh8.github.io/react-beautiful-dnd-strictmode/) |
 | **보안 자동화** | [보안 권고문 RSS 수집기](https://leekh8.github.io/security-advisory-rss-watcher/) · [Nuclei 스캔 비결정성 추적](https://leekh8.github.io/nuclei-ssh-maxstartups/) |
+| **네트워크 기초** | [OSI 7계층](https://leekh8.github.io/osi-7-layers/) · [NAT 완전 정복](https://leekh8.github.io/nat-deep-dive/) · [DNS 완전 정복](https://leekh8.github.io/dns-deep-dive/) |
 | **웹 보안 기초** | OWASP Top 10 · API Security · LLM Top 10 · JWT/OAuth/세션 |
 
 <br/>
