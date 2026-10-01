@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8957E5&height=180&section=header&text=leekh8&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-**웹 취약점 분석 → 보안 점검 자동화 도구 개발**
+<!-- **웹 취약점 분석 → 보안 점검 자동화 도구 개발**/ -->
 
 <a href="https://leekh8.github.io/">
   <img src="https://img.shields.io/badge/Tech_Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
